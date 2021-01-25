@@ -1,1 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T06:59:09.979Z" agent="5.0 (Macintosh)" etag="enAPprgDGp5in6VWfDIu" version="14.2.6" type="github"><diagram id="VT2dFw4bQjWTdSwBYuqa" name="Page-1">3VbbjpswEP0aP24FmOsjBNKqUqWVInV3H11wAIngyHFC6Nd3jM09u91WXe2qeYhmjj1jc2YOA8Kbw/UzJ8fiG8tohSwjuyIcI8vyfBf+JdAqwLGwAnJeZgoyR2BX/qQaNDR6LjN6mm0UjFWiPM7BlNU1TcUMI5yzZr5tz6r5qUeS0xWwS0m1Rh/KTBQK9S1vxL/QMi/6k003UCsH0m/WT3IqSMaaCYQThDecMaGsw3VDK8ldz4uK2z6zOlyM01q8JuB7syc1j6u7x/PlIfkaufl9fGepLBdSnfUDI8utIF+UlRcwc2mixEOBjSKMEh+FWxR5KHFQGKPQRYmLQgOFJtvvKe9j4RLT8FsZIcsG+b68s9PlD5Fvy/yR0xkB8gE0+41Bn+QHX6ZdHtZxLdq+gJyd64xKDkxYbopS0N2RpHK1gY4FrBCHSi9rNigX9PoszeZQPGh6yg5U8Ba29AGGrrdueBNrvxnbx+x7opi0jqsxojs2H1KPRQVD1/UPamzfqPGCJFpnoRQLeGlFTqcynfNCr6V4BNv45GjvabISy0c3eqfVjjqEZit9LZiEi7AzT+nvunTN+IRR5wahPcZpRUR5mV/jFsv6hHtWwgWHgmJ/XlBsLAqlrq+jpgJcJDLdeSLLXiQShOdUrBJBZUg72XaUG06rthiI+ftOcdadAoqE5/exVGQQId+RigckiAcNu/Cb6PSD6c96b/m57yM/oIu3kyDpPk3XxrDOewPZ6nZSbf3fy9vGi8ZzXifvfyVe74Z4g06qYTdXt3KiwqQNPRRFUsWR0Q1YR4o63HQGiNh/cdp70oiSQfu+mt8vjO2P9jqw3+59AO74OafKOn4T4+QX</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T07:01:23.002Z" agent="5.0 (Macintosh)" etag="1ZTKMpIUTjTiEbOizl-x" version="14.2.6" type="github">
+  <diagram id="VT2dFw4bQjWTdSwBYuqa" name="Page-1">
+    <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VwfanrDl-XuvWEJB6gPD-2" value="&lt;div&gt;申请学校offer&lt;/div&gt;&lt;div&gt;（20%的资金）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VwfanrDl-XuvWEJB6gPD-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VwfanrDl-XuvWEJB6gPD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VwfanrDl-XuvWEJB6gPD-5" value="考雅思（6666）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VwfanrDl-XuvWEJB6gPD-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VwfanrDl-XuvWEJB6gPD-5" target="VwfanrDl-XuvWEJB6gPD-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VwfanrDl-XuvWEJB6gPD-7" value="通过移民公司申请学签（80%资金）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
